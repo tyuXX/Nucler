@@ -88,6 +88,10 @@ amethyst                                          ([no block])                  
 ruby                                              ([no block])                                                                     = Molten Ruby
 sapphire                                          ([no block])                                                                     = Molten Sapphire
 peridot                                           ([no block])                                                                     = Molten Peridot
+yellorium                                         (tconstruct:molten_yellorium)                                                    = Molten Yellorium
+cyanite                                           (tconstruct:molten_cyanite)                                                      = Molten Cyanite
+ludicrite                                         (tconstruct:molten_ludicrite)                                                    = Molten Ludicrite
+blutonium                                         (tconstruct:molten_blutonium)                                                    = Molten Blutonium
 thaumium                                          ([no block])                                                                     = Molten Thaumium
 enderium                                          (tconstruct:molten_enderium)                                                     = Molten Enderium
 lumium                                            (tconstruct:molten_lumium)                                                       = Molten Lumium
