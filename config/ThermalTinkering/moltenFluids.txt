@@ -17,6 +17,9 @@ lead                                              (tconstruct:molten_lead)      
 silver                                            (tconstruct:molten_silver)                                                       = Molten Silver
 electrum                                          (tconstruct:molten_electrum)                                                     = Molten Electrum
 steel                                             (tconstruct:molten_steel)                                                        = Molten Steel
+xu_evil_metal                                     ([no block])                                                                     = Evil Infused Iron
+xu_enchanted_metal                                ([no block])                                                                     = Enchanted Metal
+xu_demonic_metal                                  ([no block])                                                                     = Molten Demon Metal
 enderium                                          (tconstruct:molten_enderium)                                                     = Molten Enderium
 platinum                                          (tconstruct:molten_platinum)                                                     = Molten Platinum
 iridium                                           (tconstruct:molten_iridium)                                                      = Molten Iridium

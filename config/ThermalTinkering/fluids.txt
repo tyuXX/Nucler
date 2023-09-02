@@ -32,6 +32,9 @@ poison                                            (biomesoplenty:poison)        
 hot_spring_water                                  (biomesoplenty:hot_spring_water)                                                 = Hot Spring Water
 springwater                                       (byg:springwater)                                                                = Springwater
 purified_water                                    (toughasnails:purified_water)                                                    = Purified Water
+xu_evil_metal                                     ([no block])                                                                     = Evil Infused Iron
+xu_enchanted_metal                                ([no block])                                                                     = Enchanted Metal
+xu_demonic_metal                                  ([no block])                                                                     = Molten Demon Metal
 steam                                             ([no block])                                                                     = Steam
 hotsteam                                          ([no block])                                                                     = Dense Steam
 superhotsteam                                     ([no block])                                                                     = Super Dense Steam
