@@ -1,0 +1,29 @@
+{
+  "id": "quarryplus:builtin_item.dimensionmirror",
+  "type": "quarryplus:workbench_recipe",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_eye",
+      "data": 0,
+      "count": 16
+    },
+    {
+      "item": "quarryplus:magicmirror",
+      "data": 0,
+      "count": 2
+    }
+  ],
+  "energy": 3200.0,
+  "showInJEI": true,
+  "result": {
+    "item": "quarryplus:magicmirror",
+    "data": 1,
+    "count": 1,
+    "nbt": {
+      "Rot": {
+        "start": "0L",
+        "time": "0L"
+      }
+    }
+  }
+}
