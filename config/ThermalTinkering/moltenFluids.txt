@@ -95,6 +95,7 @@ yellorium                                         (tconstruct:molten_yellorium) 
 cyanite                                           (tconstruct:molten_cyanite)                                                      = Molten Cyanite
 ludicrite                                         (tconstruct:molten_ludicrite)                                                    = Molten Ludicrite
 blutonium                                         (tconstruct:molten_blutonium)                                                    = Molten Blutonium
+osmium                                            (tconstruct:molten_osmium)                                                       = Molten Osmium
 thaumium                                          ([no block])                                                                     = Molten Thaumium
 enderium                                          (tconstruct:molten_enderium)                                                     = Molten Enderium
 lumium                                            (tconstruct:molten_lumium)                                                       = Molten Lumium
