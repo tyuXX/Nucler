@@ -124,7 +124,7 @@ key_key.categories.hbm.craneMoveRight:0
 key_key.categories.hbm.craneLoad:0
 key_key.ironbackpacks.equip:0
 key_key.ironbackpacks.open:0
-key_Key.SlashBlade.PS:-98
+key_Key.SlashBlade.PS:0
 key_Key.SlashBlade.SA:0
 key_Key.SlashBlade.LO:42
 key_Key.SlashBlade.CA:0
@@ -159,6 +159,7 @@ key_key.draconicevolution.toggleDislocator:0
 key_key.draconicevolution.cycleDigAOE:0
 key_key.draconicevolution.cycleAttackAOE:0
 key_key.draconicevolution.toggleShields:0
+key_Dynamic Lights toggle:38
 key_mekanism.key.mode:0
 key_mekanism.key.armorMode:0
 key_mekanism.key.feetMode:0
