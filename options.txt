@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -86,55 +86,58 @@ key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_Change Caster Focus:33
-key_Misc Caster Toggle:34
+key_Misc Caster Toggle:0
 key_keybind.baublesinventory:48
 key_pe.key.armor_toggle:45
 key_pe.key.charge:47
 key_pe.key.extra_function:46
 key_pe.key.fire_projectile:19
-key_pe.key.mode:34
+key_pe.key.mode:0
 key_key.toggle_shaders:0
 key_key.aim:56
-key_key.reload:19
+key_key.reload:79
 key_key.unload:22
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_cos.key.opencosarmorinventory:0
+key_enderutilities.key.activate_unselected:0
+key_enderutilities.key.togglemode:0
 key_key.xu2.searchforitems:20
 key_key.ftbultimine:41
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:0
 key_key.ftbmoney.shop:0
-key_key.jetpack_activate:36
-key_key.jetpack_hover:35
-key_key.jetpack_hud:22
-key_key.fsb_flashlight:77
-key_key.categories.hbm.toggleBack:46
-key_key.categories.hbm.toggleHUD:47
+key_key.fart.desc:0
+key_key.jetpack_activate:0
+key_key.jetpack_hover:0
+key_key.jetpack_hud:0
+key_key.fsb_flashlight:0
+key_key.categories.hbm.toggleBack:0
+key_key.categories.hbm.toggleHUD:0
 key_key.categories.hbm.reload:19
-key_key.categories.hbm.craneMoveUp:200
-key_key.categories.hbm.craneMoveDown:208
-key_key.categories.hbm.craneMoveLeft:203
-key_key.categories.hbm.craneMoveRight:205
-key_key.categories.hbm.craneLoad:28
-key_key.ironbackpacks.equip:35
-key_key.ironbackpacks.open:23
+key_key.categories.hbm.craneMoveUp:0
+key_key.categories.hbm.craneMoveDown:0
+key_key.categories.hbm.craneMoveLeft:0
+key_key.categories.hbm.craneMoveRight:0
+key_key.categories.hbm.craneLoad:0
+key_key.ironbackpacks.equip:0
+key_key.ironbackpacks.open:0
 key_Key.SlashBlade.PS:-98
-key_Key.SlashBlade.SA:47
+key_Key.SlashBlade.SA:0
 key_Key.SlashBlade.LO:42
-key_Key.SlashBlade.CA:29
-key_key.xat.trinket_gui.desc:25
-key_key.xat.trinket_target.desc:25
-key_key.xat.trinket_toggle_effect.desc:43
-key_key.xat.magnet_toggle_effect.desc:43
-key_key.xat.trinket_arcing_attack.desc:19
-key_key.xat.aux_key.desc:29
-key_key.xat.race_ability.desc:19
+key_Key.SlashBlade.CA:0
+key_key.xat.trinket_gui.desc:0
+key_key.xat.trinket_target.desc:0
+key_key.xat.trinket_toggle_effect.desc:0
+key_key.xat.magnet_toggle_effect.desc:0
+key_key.xat.trinket_arcing_attack.desc:0
+key_key.xat.aux_key.desc:0
+key_key.xat.race_ability.desc:0
 key_key.open_wft.desc:0
 key_key.open_wit.desc:0
-key_key.cofh.multimode:47
+key_key.cofh.multimode:52
 key_key.toggle_focus.desc:15
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -157,14 +160,19 @@ key_key.draconicevolution.cycleDigAOE:0
 key_key.draconicevolution.cycleAttackAOE:0
 key_key.draconicevolution.toggleShields:0
 key_mekanism.key.mode:0
-key_mekanism.key.armorMode:34
-key_mekanism.key.feetMode:35
+key_mekanism.key.armorMode:0
+key_mekanism.key.feetMode:0
 key_mekanism.key.voice:22
 key_key.projectex.focusSearchBar:15
-key_key.taiga.alt_action:29
+key_keybind.simplyjetpacks.gui:37
+key_keybind.simplyjetpacks.engine:34
+key_keybind.simplyjetpacks.charger:0
+key_keybind.simplyjetpacks.hover:0
+key_keybind.simplyjetpacks.emergency_hover:0
+key_key.taiga.alt_action:0
 key_key.travelersbackpack.inventory:48
 key_key.travelersbackpack.toggle_tank:49
-key_key.travelersbackpack.cycle_tool:44
+key_key.travelersbackpack.cycle_tool:0
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:78
 key_gui.xaero_toggle_slime:0
@@ -190,17 +198,17 @@ key_gui.xaero_open_settings:27
 key_gui.xaero_map_zoom_in:0
 key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:54
-key_Toggle Jetpack:45
+key_Toggle Jetpack:36
 key_Open Rocket GUI:46
-key_Toggle RCS:19
+key_Toggle RCS:0
 key_Rotate Vehicle Right:32
 key_Rotate Vehicle Left:30
 key_Move Vehicle Up:44
 key_Move Vehicle Down:45
-key_Open Skill GUI:21
+key_Open Skill GUI:0
 key_enderio.keybind.inventory:23
 key_enderio.keybind.dsu:0
-key_enderio.keybind.glidertoggle:34
+key_enderio.keybind.glidertoggle:0
 key_enderio.keybind.soundlocator:0
 key_enderio.keybind.nightvision:25
 key_enderio.keybind.gogglesofrevealing:0
@@ -209,7 +217,7 @@ key_enderio.keybind.speed:0
 key_enderio.keybind.jump:0
 key_enderio.keybind.top:0
 key_enderio.keybind.tnt:0
-key_enderio.keybind.yetawrenchmode:21
+key_enderio.keybind.yetawrenchmode:0
 key_enderio.keybind.magnet:0
 key_enderio.keybind.fovreset:0
 key_enderio.keybind.fovunreset:0
@@ -219,7 +227,7 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:1.0
+soundCategory_master:0.15562914
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
