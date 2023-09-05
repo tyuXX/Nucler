@@ -90,6 +90,9 @@ stellar_alloy                                     (enderio:block_fluid_stellar_a
 crystalline_pink_slime                            (enderio:block_fluid_crystalline_pink_slime)                                     = Molten Crystalline Pink Slime
 energetic_silver                                  (enderio:block_fluid_energetic_silver)                                           = Molten Energetic Silver
 vivid_alloy                                       (enderio:block_fluid_vivid_alloy)                                                = Molten Vivid Alloy
+fierymetal                                        (twilightforest:molten_fierymetal)                                               = Molten Fiery
+knightmetal                                       (twilightforest:molten_knightmetal)                                              = Molten Knightmetal
+fiery_essence                                     (twilightforest:fiery_essence)                                                   = Fiery Essence
 sand                                              (biomesoplenty:sand)                                                             = Quicksand
 honey                                             (biomesoplenty:honey)                                                            = Honey
 blood                                             (biomesoplenty:blood)                                                            = Blood

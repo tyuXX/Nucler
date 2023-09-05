@@ -4,12 +4,12 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:12
-guiScale:0
+renderDistance:8
+guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
-maxFps:60
+maxFps:30
 fboEnable:true
 difficulty:2
 fancyGraphics:true
@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -49,7 +49,7 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 narrator:0
 tutorialStep:none
 key_key.attack:-100
@@ -85,9 +85,9 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_Change Caster Focus:33
+key_Change Caster Focus:0
 key_Misc Caster Toggle:0
-key_keybind.baublesinventory:48
+key_keybind.baublesinventory:0
 key_pe.key.armor_toggle:45
 key_pe.key.charge:47
 key_pe.key.extra_function:46
@@ -124,7 +124,7 @@ key_key.categories.hbm.craneMoveRight:0
 key_key.categories.hbm.craneLoad:0
 key_key.ironbackpacks.equip:0
 key_key.ironbackpacks.open:0
-key_Key.SlashBlade.PS:0
+key_Key.SlashBlade.PS:184:CONTROL
 key_Key.SlashBlade.SA:0
 key_Key.SlashBlade.LO:42
 key_Key.SlashBlade.CA:0
@@ -135,8 +135,11 @@ key_key.xat.magnet_toggle_effect.desc:0
 key_key.xat.trinket_arcing_attack.desc:0
 key_key.xat.aux_key.desc:0
 key_key.xat.race_ability.desc:0
+key_key.open_wct.desc:0
+key_key.cycle_magnet_mode.desc:0
 key_key.open_wft.desc:0
 key_key.open_wit.desc:0
+key_key.open_wpt.desc:0
 key_key.cofh.multimode:52
 key_key.toggle_focus.desc:15
 key_key.jei.toggleOverlay:24:CONTROL
@@ -185,7 +188,7 @@ key_gui.xaero_enlarge_map:44
 key_gui.xaero_waypoints_key:22
 key_gui.xaero_zoom_in:0
 key_gui.xaero_zoom_out:0
-key_gui.xaero_new_waypoint:48
+key_gui.xaero_new_waypoint:0
 key_gui.xaero_display_all_sets:0
 key_gui.xaero_toggle_light_overlay:0
 key_gui.xaero_toggle_entity_radar:0
@@ -211,7 +214,7 @@ key_enderio.keybind.inventory:23
 key_enderio.keybind.dsu:0
 key_enderio.keybind.glidertoggle:0
 key_enderio.keybind.soundlocator:0
-key_enderio.keybind.nightvision:25
+key_enderio.keybind.nightvision:40
 key_enderio.keybind.gogglesofrevealing:0
 key_enderio.keybind.stepassist:0
 key_enderio.keybind.speed:0
@@ -228,7 +231,7 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:0.15562914
+soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
