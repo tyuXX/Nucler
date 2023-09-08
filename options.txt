@@ -162,6 +162,7 @@ key_key.draconicevolution.toggleDislocator:0
 key_key.draconicevolution.cycleDigAOE:0
 key_key.draconicevolution.cycleAttackAOE:0
 key_key.draconicevolution.toggleShields:0
+key_nei.options.keys.gui.botania_corporea_request:46
 key_Dynamic Lights toggle:38
 key_mekanism.key.mode:0
 key_mekanism.key.armorMode:0

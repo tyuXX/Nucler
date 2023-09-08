@@ -155,7 +155,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>byg:bcrystal_canyons;2,biomesoplenty:tropical_island;30,byg:bwhisperingwoods;2,minecraft:mutated_redwood_taiga;30,minecraft:mutated_extreme_hills;30</biomeIds>
+                <biomeIds>biomesoplenty:tropical_island;30,minecraft:mutated_redwood_taiga;30,minecraft:mutated_extreme_hills;30</biomeIds>
             </planet>
             <planet DIMID="5" name="Sol 3: 1">
                 <isKnown>false</isKnown>
@@ -195,7 +195,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>biomesoplenty:orchard;30,minecraft:jungle_edge;30,byg:bbaobabsavanna;3,minecraft:jungle_hills;30,minecraft:deep_ocean;30</biomeIds>
+                <biomeIds>biomesoplenty:orchard;30,minecraft:jungle_edge;30,minecraft:jungle_hills;30,minecraft:deep_ocean;30</biomeIds>
             </planet>
             <planet DIMID="7" name="Sol 3: 3">
                 <isKnown>false</isKnown>
@@ -214,7 +214,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>biomesoplenty:shrubland;30,biomesoplenty:oasis;30,minecraft:swampland;10,byg:bsavannacanopy;3,biomesoplenty:prairie;30</biomeIds>
+                <biomeIds>biomesoplenty:shrubland;30,biomesoplenty:oasis;30,minecraft:swampland;10,biomesoplenty:prairie;30</biomeIds>
             </planet>
             <planet DIMID="8" name="Sol 3: 4">
                 <isKnown>false</isKnown>
@@ -291,7 +291,7 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>true</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <biomeIds>minecraft:mutated_plains;30,biomesoplenty:grassland;30,biomesoplenty:woodland;30,biomesoplenty:bayou;30,byg:bcypress_swamplands;3</biomeIds>
+            <biomeIds>minecraft:mutated_plains;30,biomesoplenty:grassland;30,biomesoplenty:woodland;30,biomesoplenty:bayou;30</biomeIds>
             <planet DIMID="21" name="Sol 20: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -406,7 +406,7 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>true</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>biomesoplenty:grassland;30,biomesoplenty:corrupted_sands;30,byg:bredoakforest;4,byg:bprairie;4,minecraft:plains;10</biomeIds>
+            <biomeIds>biomesoplenty:grassland;30,biomesoplenty:corrupted_sands;30,minecraft:plains;10</biomeIds>
         </planet>
         <planet DIMID="11" name="Sol 11">
             <isKnown>false</isKnown>
@@ -425,7 +425,7 @@
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>minecraft:frozen_ocean;30,byg:bcolored_canyons;3,byg:bshrublands;3,biomesoplenty:lush_desert;30,biomesoplenty:coral_reef;30</biomeIds>
+            <biomeIds>minecraft:frozen_ocean;30,biomesoplenty:lush_desert;30,biomesoplenty:coral_reef;30</biomeIds>
             <oceanBlock>minecraft:lava</oceanBlock>
         </planet>
         <planet DIMID="27" name="Sol 27">
@@ -464,7 +464,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>byg:bredoakforest;4,byg:bsavannacanopy;3,twilightforest:mushroom_forest;30,minecraft:plains;10,minecraft:desert_hills;30</biomeIds>
+                <biomeIds>twilightforest:mushroom_forest;30,minecraft:plains;10,minecraft:desert_hills;30</biomeIds>
             </planet>
             <planet DIMID="29" name="Sol 27: 1">
                 <isKnown>false</isKnown>
@@ -583,7 +583,7 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <biomeIds>minecraft:mutated_savanna;30,byg:balliumfields;3,byg:bredwoodtropics;4,biomesoplenty:grassland;30,byg:bcypress_swamplands;3</biomeIds>
+            <biomeIds>minecraft:mutated_savanna;30,biomesoplenty:grassland;30</biomeIds>
         </planet>
         <planet DIMID="35" name="Wolf 12 35">
             <isKnown>false</isKnown>
@@ -602,7 +602,7 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <biomeIds>minecraft:desert;30,biomesoplenty:white_beach;30,byg:bfrostyforest;3,byg:btropicalmountains;3,biomesoplenty:redwood_forest;30</biomeIds>
+            <biomeIds>minecraft:desert;30,biomesoplenty:white_beach;30,biomesoplenty:redwood_forest;30</biomeIds>
             <planet DIMID="36" name="Wolf 12 35: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -620,7 +620,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>minecraft:mutated_plains;30,minecraft:birch_forest;10,byg:bsnowyconiferousforest;4,biomesoplenty:origin_beach;30,biomesoplenty:gravel_beach;30</biomeIds>
+                <biomeIds>minecraft:mutated_plains;30,minecraft:birch_forest;10,biomesoplenty:origin_beach;30,biomesoplenty:gravel_beach;30</biomeIds>
             </planet>
             <planet DIMID="37" name="Wolf 12 35: 1">
                 <isKnown>false</isKnown>
@@ -640,7 +640,7 @@
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <seaLevel>73</seaLevel>
-                <biomeIds>minecraft:mutated_birch_forest;30,biomesoplenty:redwood_forest;30,twilightforest:highlands_center;30,biomesoplenty:highland;30,byg:bmangrovemarshes;4</biomeIds>
+                <biomeIds>minecraft:mutated_birch_forest;30,biomesoplenty:redwood_forest;30,twilightforest:highlands_center;30,biomesoplenty:highland;30</biomeIds>
             </planet>
         </planet>
         <planet DIMID="38" name="Wolf 12 38">
@@ -660,7 +660,7 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>byg:bamaranth_fields;3,minecraft:plains;10,byg:bsonorandesert;3,thaumcraft:eldritch;30,twilightforest:thornlands;30</biomeIds>
+            <biomeIds>minecraft:plains;10,thaumcraft:eldritch;30,twilightforest:thornlands;30</biomeIds>
             <planet DIMID="39" name="Wolf 12 38: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -697,7 +697,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>byg:bredoakforest;4,biomesoplenty:xeric_shrubland;30,twilightforest:highlands_center;30,biomesoplenty:tropical_island;30,advancedrocketry:marsh;30</biomeIds>
+                <biomeIds>biomesoplenty:xeric_shrubland;30,twilightforest:highlands_center;30,biomesoplenty:tropical_island;30,advancedrocketry:marsh;30</biomeIds>
             </planet>
             <planet DIMID="41" name="Wolf 12 38: 2">
                 <isKnown>false</isKnown>
@@ -736,7 +736,7 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>biomesoplenty:moor;30,thaumcraft:magical_forest;5,byg:bwoodlands;4,biomesoplenty:lush_desert;30,byg:bbaobabsavanna;3</biomeIds>
+            <biomeIds>biomesoplenty:moor;30,thaumcraft:magical_forest;5,biomesoplenty:lush_desert;30</biomeIds>
             <planet DIMID="43" name="Wolf 12 42: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -773,7 +773,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>byg:bamaranth_fields;3,advancedrocketry:marsh;30,biomesoplenty:bayou;30,minecraft:jungle_edge;30,biomesoplenty:redwood_forest_edge;30</biomeIds>
+                <biomeIds>advancedrocketry:marsh;30,biomesoplenty:bayou;30,minecraft:jungle_edge;30,biomesoplenty:redwood_forest_edge;30</biomeIds>
             </planet>
             <planet DIMID="45" name="Wolf 12 42: 2">
                 <isKnown>false</isKnown>
@@ -949,7 +949,7 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <biomeIds>byg:borchard;4,minecraft:mutated_mesa_clear_rock;30,biomesoplenty:visceral_heap;30,byg:benchantedforest;2,twilightforest:twilight_highlands;30</biomeIds>
+            <biomeIds>minecraft:mutated_mesa_clear_rock;30,biomesoplenty:visceral_heap;30,twilightforest:twilight_highlands;30</biomeIds>
         </planet>
         <planet DIMID="54" name="Epsilon ire 54">
             <isKnown>false</isKnown>
@@ -968,7 +968,7 @@
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>minecraft:mutated_savanna;30,byg:bcolored_canyons;3,minecraft:frozen_ocean;30,biomesoplenty:phantasmagoric_inferno;30,biomesoplenty:lush_desert;30</biomeIds>
+            <biomeIds>minecraft:mutated_savanna;30,minecraft:frozen_ocean;30,biomesoplenty:phantasmagoric_inferno;30,biomesoplenty:lush_desert;30</biomeIds>
             <oceanBlock>minecraft:lava</oceanBlock>
         </planet>
         <planet DIMID="55" name="Epsilon ire 55">
@@ -988,7 +988,7 @@
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <biomeIds>byg:bsonorandesert;3,minecraft:ocean;30,minecraft:mutated_mesa;30,byg:btropicalmountains;3,byg:bfungaljungle;3</biomeIds>
+            <biomeIds>minecraft:ocean;30,minecraft:mutated_mesa;30</biomeIds>
             <planet DIMID="56" name="Epsilon ire 55: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -1027,7 +1027,7 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>true</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <biomeIds>thaumcraft:eerie;30,biomesoplenty:marsh;30,biomesoplenty:redwood_forest;30,byg:bmarshlands;4,byg:balliumfields;3</biomeIds>
+            <biomeIds>thaumcraft:eerie;30,biomesoplenty:marsh;30,biomesoplenty:redwood_forest;30</biomeIds>
         </planet>
         <planet DIMID="58" name="Epsilon ire 58">
             <isKnown>false</isKnown>
@@ -1046,7 +1046,7 @@
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <biomeIds>minecraft:mutated_jungle_edge;30,biomesoplenty:lush_desert;30,byg:bshrublands;3,minecraft:mutated_savanna;30,minecraft:desert;30</biomeIds>
+            <biomeIds>minecraft:mutated_jungle_edge;30,biomesoplenty:lush_desert;30,minecraft:mutated_savanna;30,minecraft:desert;30</biomeIds>
             <planet DIMID="59" name="Epsilon ire 58: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -1123,7 +1123,7 @@
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>minecraft:jungle;30,minecraft:savanna_rock;30,minecraft:mutated_mesa_clear_rock;30,biomesoplenty:coral_reef;30,byg:breddesert;4</biomeIds>
+            <biomeIds>minecraft:jungle;30,minecraft:savanna_rock;30,minecraft:mutated_mesa_clear_rock;30,biomesoplenty:coral_reef;30</biomeIds>
             <planet DIMID="48" name="Epsilon ire 46: 1">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -1202,7 +1202,7 @@
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <biomeIds>byg:bbaobabsavanna;3,byg:boutback;3,biomesoplenty:volcanic_island;30,byg:btropical_islands;4,byg:bcrystal_canyons;2</biomeIds>
+            <biomeIds>biomesoplenty:volcanic_island;30</biomeIds>
             <oceanBlock>minecraft:lava</oceanBlock>
         </planet>
         <planet DIMID="67" name="Proxima Centaurs 67">
@@ -1223,7 +1223,7 @@
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
             <seaLevel>77</seaLevel>
-            <biomeIds>biomesoplenty:xeric_shrubland;30,minecraft:ocean;30,byg:btropical_islands;4,twilightforest:fire_swamp;30,minecraft:jungle_edge;30</biomeIds>
+            <biomeIds>biomesoplenty:xeric_shrubland;30,minecraft:ocean;30,twilightforest:fire_swamp;30,minecraft:jungle_edge;30</biomeIds>
             <planet DIMID="68" name="Proxima Centaurs 67: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -1264,7 +1264,7 @@
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <biomeIds>byg:bdeadsea;2,biomesoplenty:outback;30,byg:bcrystal_canyons;2,byg:bfungaljungle;3,biomesoplenty:oasis;30</biomeIds>
+            <biomeIds>biomesoplenty:outback;30,biomesoplenty:oasis;30</biomeIds>
             <planet DIMID="64" name="Proxima Centaurs 62: 1">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -1343,7 +1343,7 @@
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>byg:boutlands;4,advancedrocketry:volcanicbarren;30,biomesoplenty:bayou;30,biomesoplenty:outback;30,minecraft:savanna;30</biomeIds>
+            <biomeIds>advancedrocketry:volcanicbarren;30,biomesoplenty:bayou;30,biomesoplenty:outback;30,minecraft:savanna;30</biomeIds>
             <planet DIMID="70" name="Magnis Vulpes 69: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -1361,7 +1361,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>minecraft:mutated_mesa_rock;30,byg:benchantedforest;2,biomesoplenty:mangrove;30,biomesoplenty:sacred_springs;30,byg:bwhisperingwoods;2</biomeIds>
+                <biomeIds>minecraft:mutated_mesa_rock;30,biomesoplenty:mangrove;30,biomesoplenty:sacred_springs;30</biomeIds>
             </planet>
             <planet DIMID="71" name="Magnis Vulpes 69: 1">
                 <isKnown>false</isKnown>
@@ -1380,7 +1380,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>biomesoplenty:lavender_fields;30,byg:bcolored_canyons;3,twilightforest:dark_forest_center;30,minecraft:mesa_rock;30,minecraft:jungle;30</biomeIds>
+                <biomeIds>biomesoplenty:lavender_fields;30,twilightforest:dark_forest_center;30,minecraft:mesa_rock;30,minecraft:jungle;30</biomeIds>
             </planet>
             <planet DIMID="72" name="Magnis Vulpes 69: 2">
                 <isKnown>false</isKnown>
@@ -1420,7 +1420,7 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <biomeIds>byg:bglaciers;3,minecraft:mutated_mesa;30,biomesoplenty:corrupted_sands;30,biomesoplenty:bamboo_forest;30,byg:bdeciduousforest;4</biomeIds>
+            <biomeIds>minecraft:mutated_mesa;30,biomesoplenty:corrupted_sands;30,biomesoplenty:bamboo_forest;30</biomeIds>
             <planet DIMID="74" name="Magnis Vulpes 73: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -1438,7 +1438,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>byg:bquagmire;3,thaumcraft:magical_forest;5,byg:bfrostyforest;3,biomesoplenty:tropical_rainforest;30,twilightforest:mushroom_forest;30</biomeIds>
+                <biomeIds>thaumcraft:magical_forest;5,biomesoplenty:tropical_rainforest;30,twilightforest:mushroom_forest;30</biomeIds>
             </planet>
             <planet DIMID="75" name="Magnis Vulpes 73: 1">
                 <isKnown>false</isKnown>
@@ -1457,7 +1457,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>thaumcraft:magical_forest;5,byg:btropicalrainforest;4,byg:btropical_islands;4,byg:bsnowyconiferousforest;4,biomesoplenty:eucalyptus_forest;30</biomeIds>
+                <biomeIds>thaumcraft:magical_forest;5,biomesoplenty:eucalyptus_forest;30</biomeIds>
             </planet>
         </planet>
     </star>
@@ -1537,7 +1537,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>twilightforest:twilight_swamp;30,minecraft:mutated_birch_forest_hills;30,twilightforest:twilight_lake;30,byg:blushdesert;4,biomesoplenty:brushland;30</biomeIds>
+                <biomeIds>twilightforest:twilight_swamp;30,minecraft:mutated_birch_forest_hills;30,twilightforest:twilight_lake;30,biomesoplenty:brushland;30</biomeIds>
             </planet>
             <planet DIMID="84" name="Ma-Roo 81: 2">
                 <isKnown>false</isKnown>
@@ -1556,7 +1556,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>biomesoplenty:bamboo_forest;30,byg:bshrublands;3,byg:bdeciduousforest;4,biomesoplenty:moor;30,biomesoplenty:coral_reef;30</biomeIds>
+                <biomeIds>biomesoplenty:bamboo_forest;30,biomesoplenty:moor;30,biomesoplenty:coral_reef;30</biomeIds>
             </planet>
         </planet>
         <planet DIMID="85" name="Ma-Roo 85">
@@ -1576,7 +1576,7 @@
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>byg:btropicalmountains;3,minecraft:mutated_desert;30,advancedrocketry:marsh;30,byg:bsonorandesert;3,byg:blushdesert;4</biomeIds>
+            <biomeIds>minecraft:mutated_desert;30,advancedrocketry:marsh;30</biomeIds>
             <oceanBlock>minecraft:lava</oceanBlock>
         </planet>
         <planet DIMID="86" name="Ma-Roo 86">
@@ -1635,7 +1635,7 @@
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>biomesoplenty:bayou;30,byg:breddesert;4,minecraft:jungle;30,minecraft:deep_ocean;30,minecraft:mutated_mesa_rock;30</biomeIds>
+            <biomeIds>biomesoplenty:bayou;30,minecraft:jungle;30,minecraft:deep_ocean;30,minecraft:mutated_mesa_rock;30</biomeIds>
             <planet DIMID="77" name="Ma-Roo 76: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -1716,7 +1716,7 @@
             <generateVolcanos>true</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>minecraft:mutated_savanna;30,minecraft:mutated_mesa_rock;30,minecraft:ocean;30,byg:bsavannacanopy;3,byg:btropicalmountains;3</biomeIds>
+            <biomeIds>minecraft:mutated_savanna;30,minecraft:mutated_mesa_rock;30,minecraft:ocean;30</biomeIds>
             <planet DIMID="97" name="Alykitt 96: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -1755,7 +1755,7 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>true</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <biomeIds>advancedrocketry:volcanicbarren;30,byg:borchard;4,minecraft:mutated_forest;30,minecraft:mesa_rock;30,byg:bshrublands;3</biomeIds>
+            <biomeIds>advancedrocketry:volcanicbarren;30,minecraft:mutated_forest;30,minecraft:mesa_rock;30</biomeIds>
             <planet DIMID="99" name="Alykitt 98: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -1792,7 +1792,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>twilightforest:twilight_swamp;30,byg:bgreatoaklowlands;4,biomesoplenty:kelp_forest;30,biomesoplenty:prairie;30,byg:bbog;4</biomeIds>
+                <biomeIds>twilightforest:twilight_swamp;30,biomesoplenty:kelp_forest;30,biomesoplenty:prairie;30</biomeIds>
             </planet>
             <planet DIMID="101" name="Alykitt 98: 2">
                 <isKnown>false</isKnown>
@@ -1849,7 +1849,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>minecraft:mutated_mesa_rock;30,minecraft:mutated_savanna;30,minecraft:jungle;30,byg:boutlands;4,minecraft:forest_hills;30</biomeIds>
+                <biomeIds>minecraft:mutated_mesa_rock;30,minecraft:mutated_savanna;30,minecraft:jungle;30,minecraft:forest_hills;30</biomeIds>
             </planet>
             <planet DIMID="104" name="Alykitt 102: 1">
                 <isKnown>false</isKnown>
@@ -1985,7 +1985,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>thaumcraft:magical_forest;5,thaumcraft:eldritch;30,minecraft:mutated_desert;30,twilightforest:twilight_forest;30,byg:bgrasslandplateau;3</biomeIds>
+                <biomeIds>thaumcraft:magical_forest;5,thaumcraft:eldritch;30,minecraft:mutated_desert;30,twilightforest:twilight_forest;30</biomeIds>
             </planet>
             <planet DIMID="94" name="Alykitt 88: 5">
                 <isKnown>false</isKnown>
