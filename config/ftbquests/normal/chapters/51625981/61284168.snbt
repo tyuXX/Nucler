@@ -1,0 +1,18 @@
+{
+	x: -3.0d,
+	y: -1.0d,
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "ab553c29",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:coin 1 65"
+		}]
+	}],
+	rewards: [{
+		uid: "7f24c99e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}
