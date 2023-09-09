@@ -1,0 +1,56 @@
+{
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2023-09-09 18:39:47 +0300"
+    },
+    "done": true
+  },
+  "simplyjetpacks:eio/root_eio": {
+    "criteria": {
+      "code_trigger": "2023-09-09 18:39:47 +0300"
+    },
+    "done": true
+  },
+  "simplyjetpacks:te/root_te": {
+    "criteria": {
+      "code_trigger": "2023-09-09 18:39:47 +0300"
+    },
+    "done": true
+  },
+  "simplyjetpacks:mek/root_mek": {
+    "criteria": {
+      "code_trigger": "2023-09-09 18:39:47 +0300"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2023-09-09 18:39:47 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2023-09-09 18:39:47 +0300"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2023-09-09 18:39:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ocean": "2023-09-09 18:39:47 +0300"
+    },
+    "done": false
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "code_trigger": "2023-09-09 18:39:47 +0300"
+    },
+    "done": true
+  }
+}
